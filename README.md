@@ -32,6 +32,7 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
+</div>
 
 
 
@@ -173,7 +174,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@y3dtechartist](https://x.com/3dtechartist) - email@example.com
+Your Name - [@3dtechartist](https://x.com/3dtechartist) - monigarr@monigarr.com
 
 Project Link: [https://github.com/monigarr/magisteriumai](https://github.com/monigarr/magisteriumai)
 
