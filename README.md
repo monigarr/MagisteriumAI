@@ -67,18 +67,27 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.github.com/monigarr/magisteriumai)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This repository showcases a collection of ExtendScripts for Adobe After Effects, that I am creating to streamline workflow automation and enhance creative capabilities. Each script addresses specific needs in video production and animation, leveraging ExtendScript's power to integrate with external data sources, automate rendering tasks, and create dynamic visualizations. Here’s an overview of some of the scripts I am including:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Automated Rendering Script: Automate batch rendering tasks in After Effects, applying customized settings and managing output destinations efficiently.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Dynamic Text Generation Script: Generate text layers dynamically based on external data sources such as CSV files or JSON, ideal for creating lower thirds, captions, or text animations that require frequent updates.
 
-Use the `BLANK_README.md` to get started.
+Complex Animation Script: Create intricate motion graphics, animated charts, and dynamic transitions using ExtendScript to achieve complex animations beyond manual capabilities.
+
+Interactive UI Script: Develop custom UI panels within After Effects to control animation parameters, layer manipulation, and specific composition actions, enhancing user interaction and workflow control.
+
+Data-Driven Animation Script: Script animations that respond to real-time or historical data feeds, transforming data into compelling visual narratives directly within After Effects compositions.
+
+Template Generation Script: Build After Effects templates for titles, transitions, or entire compositions with placeholders for easy content customization, facilitating template-based video production.
+
+Integration Script: Integrate After Effects with other Adobe Creative Cloud applications or third-party software to automate workflows between After Effects, Premiere Pro, Photoshop, and more.
+
+Asset Management Script: Manage project assets within After Effects, organizing layers, renaming items, and generating asset reports to streamline project organization and management.
+
+Explore each script to enhance productivity, creativity, and efficiency in Adobe After Effects projects.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
