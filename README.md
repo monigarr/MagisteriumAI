@@ -71,21 +71,56 @@
 
 This repository showcases a collection of ExtendScripts for Adobe After Effects, that I am creating to streamline workflow automation and enhance creative capabilities. Each script addresses specific needs in video production and animation, leveraging ExtendScript's power to integrate with external data sources, automate rendering tasks, and create dynamic visualizations. Here’s an overview of some of the scripts I am including:
 
-<b>Automated Rendering Script:</b> Automate batch rendering tasks in After Effects, applying customized settings and managing output destinations efficiently. <a href=https://github.com/monigarr/MagisteriumAI/blob/master/Scripts/renderCompositions.jsx/">renderCompositions.jsx</a>
+<b>Automated Rendering Script:</b> Automate batch rendering tasks in After Effects, applying customized settings and managing output destinations efficiently. 
+<ul>
+<li><a href=https://github.com/monigarr/MagisteriumAI/blob/master/Scripts/renderCompositions.jsx/">renderCompositions.jsx</a></li>
+</ul>
+
 
 <b>Dynamic Text Generation Script:</b> Generate text layers dynamically based on external data sources such as CSV files or JSON, ideal for creating lower thirds, captions, or text animations that require frequent updates.
+<ul>
+<li><a href="Scripts/importDataFromCSV.jsx">importDataFromCSV.jsx</a></li>
+<li><a href="Scripts/fetchDataFromWolframAlpha.jsx">fetchDataFromWolframAlpha.jsx</a></li>
+<li><a href="Scripts/fetchDataFromWolframAlpha2.jsx">fetchDataFromWolframAlpha2.jsx</a></li>
+<li><a href="Scripts/fetchDataFromAPI.jsx">fetchDataFromAPI.jsx</a></li>
+</ul>
 
-<b>Complex Animation Script:</b> Create intricate motion graphics, animated charts, and dynamic transitions using ExtendScript to achieve complex animations beyond manual capabilities.
+<b>Animation Scrips:</b> Create intricate motion graphics, animated charts, and dynamic transitions using ExtendScript to achieve complex animations beyond manual capabilities.
+<ul>
+<li><a href="Scripts/createSimpleAnimation.jsx">createSimpleAnimation.jsx</a></li>
+<li><a href="Scripts/generateAnimationTemplate.jsx">generateAnimationTemplate.jsx</a></li>
+<li><a href="Scripts/createComplexAnimationWithInput.jsx">createComplexAnimationWithInput.jsx</a></li>
+</ul>
 
 <b>Interactive UI Script:</b> Develop custom UI panels within After Effects to control animation parameters, layer manipulation, and specific composition actions, enhancing user interaction and workflow control.
+<ul>
+<li><a href="Scripts/createEnhancedUIPanel.jsx">createEnhancedUIPanel.jsx</a></li>
+</ul>
 
-<b>Data-Driven Animation Script:</b> Script animations that respond to real-time or historical data feeds, transforming data into compelling visual narratives directly within After Effects compositions. <a href="Scripts/importDataFromCSV.jsx">importDataFromCSV.jsx</a> <a href="Scripts/fetchDataFromWolframAlpha.jsx">fetchDataFromWolframAlpha.jsx</a> <a href="Scripts/fetchDataFromWolframAlpha2.jsx">fetchDataFromWolframAlpha2.jsx</a><a href="Scripts/fetchDataFromAPI.jsx">fetchDataFromAPI.jsx</a>
+<b>Data-Driven Animation Script:</b> Script animations that respond to real-time or historical data feeds, transforming data into compelling visual narratives directly within After Effects compositions. 
+<ul>
+<li><a href="Scripts/importDataFromCSV.jsx">importDataFromCSV.jsx</a></li>
+<li><a href="Scripts/fetchDataFromWolframAlpha.jsx">fetchDataFromWolframAlpha.jsx</a></li>
+<li><a href="Scripts/fetchDataFromWolframAlpha2.jsx">fetchDataFromWolframAlpha2.jsx</a></li>
+<li><a href="Scripts/fetchDataFromAPI.jsx">fetchDataFromAPI.jsx</a></li>
+</ul>
 
 <b>Template Generation Script:</b> Build After Effects templates for titles, transitions, or entire compositions with placeholders for easy content customization, facilitating template-based video production.
+<ul>
+<li><a href="Scripts/generateTemplate.jsx">generateTemplate.jsx</a>
+<li><a href="Scripts/generateAnimationTemplate.jsx">generateAnimationTemplate.jsx</a></li>
+</ul>
 
-<b>Integration Script:</b> Integrate After Effects with other Adobe Creative Cloud applications or third-party software to automate workflows between After Effects, Premiere Pro, Photoshop, and more. 
+<b>Integration Script:</b> Integrate After Effects with other Adobe Creative Cloud applications or third-party software to automate workflows between After Effects, Premiere Pro, Photoshop, and more.
+<ul>
+<li><a href="Scripts/fetchDataFromWolframAlpha.jsx">fetchDataFromWolframAlpha.jsx</a></li>
+<li><a href="Scripts/fetchDataFromWolframAlpha2.jsx">fetchDataFromWolframAlpha2.jsx</a></li>
+</ul>
 
 <b>Asset Management Script:</b> Manage project assets within After Effects, organizing layers, renaming items, and generating asset reports to streamline project organization and management.
+<ul>
+<li><a href="Scripts/assetManagerUI.jsx">Scripts/assetManagerUI.jsx</a></li>
+</ul>
 
 Explore each script to enhance productivity, creativity, and efficiency in Adobe After Effects projects.
 
