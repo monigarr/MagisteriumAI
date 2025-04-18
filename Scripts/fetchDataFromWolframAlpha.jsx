@@ -1,5 +1,6 @@
 // WIP... To Be Updated after final tests
 // Function to prompt user for Wolfram Alpha API credentials
+// https://developer.wolframalpha.com/access
 function promptForAPIKey() {
     var apiKey = prompt("Enter your Wolfram Alpha API App ID:", "");
 

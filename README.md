@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/monigarrdrew/MagisteriumAI">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 </div>
@@ -206,16 +206,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/monigarr/MagisteriumAI.svg?style=for-the-badge
+[contributors-url]: https://github.com/monigarr/MagisteriumAI/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/monigarr/MagisteriumAI.svg?style=for-the-badge
+[forks-url]: https://github.com/monigarr/MagisteriumAI/network/members
+[stars-shield]: https://img.shields.io/github/stars/monigarr/MagisteriumAI.svg?style=for-the-badge
+[stars-url]: https://github.com/monigarr/MagisteriumAI/stargazers
+[issues-shield]: https://img.shields.io/github/issues/monigarr/MagisteriumAI.svg?style=for-the-badge
+[issues-url]: https://github.com/monigarr/MagisteriumAI/issues
+[license-shield]: https://img.shields.io/github/license/monigarr/MagisteriumAI.svg?style=for-the-badge
+[license-url]: https://github.com/monigarr/MagisteriumAI/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/3dtechartist
 [product-screenshot]: images/screenshot.png
