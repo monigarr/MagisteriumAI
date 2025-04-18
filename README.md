@@ -73,7 +73,7 @@ This repository showcases a collection of ExtendScripts for Adobe After Effects,
 
 <b>Automated Rendering Script:</b> Automate batch rendering tasks in After Effects, applying customized settings and managing output destinations efficiently. 
 <ul>
-<li><a href=https://github.com/monigarr/MagisteriumAI/blob/master/Scripts/renderCompositions.jsx/">renderCompositions.jsx</a></li>
+<li><a href="Scripts/renderCompositions.jsx">renderCompositions.jsx</a></li>
 </ul>
 
 
